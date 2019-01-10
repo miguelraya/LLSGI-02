@@ -1,5 +1,5 @@
 # Introducció als Llenguatges de Marques LLSGI-02
-## _Segona activitat en que aprenem HTML5 i CSS i els seus atributs
+## _Segona activitat en que aprenem HTML5 i CSS i els seus atributs_
 
 A. Pujo tots els arxius necessaris al meu repositori.
 
