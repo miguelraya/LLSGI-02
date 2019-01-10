@@ -1,0 +1,176 @@
+body {
+    padding-left:10px;
+    background-color: #e6f7ff;
+    font-family:Arial;
+}
+
+.titol { 
+    background-color: #0066cc;
+    color: #ffffff;
+    border: 1px solid black;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+
+.apartats { 
+    border: 1px solid black;
+    background-color: #80bfff ;
+    text-align: center;
+}
+
+.textos { 
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.llista1 { 
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+.llistadesp { 
+    padding-left: 10px;
+}
+
+.llistadesptitol { 
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.llista2 { 
+    padding-left: 10px;
+}
+
+.llista3 { 
+    padding-left: 10px;
+    padding-bottom: 4px;
+}
+
+.enllasweb:link {
+color: #0000FF;
+}
+
+.enllasweb:visited {
+color: #ff9933;
+}
+
+.enllasweb:hover {
+color: #ffffcc;
+}
+
+.enllasweb:active {
+color: #ff6666;
+}
+
+.enllas:link {
+color: #0052cc;
+}
+
+.enllas:visited {
+color: #0052cc;
+}
+
+.enllas:hover {
+color: #3385ff;
+}
+
+.enllas:active {
+color: #3385ff;
+}
+
+.enllastornar {
+  padding-top: 30px;
+}
+
+th, td {
+  border: 1px solid black;
+  text-align: center;
+  padding-left: 7px;
+  padding-right: 7px;
+  background-color: #e6f7ff;
+}
+
+table { 
+    border: 1px;
+    border-color: #00e600;
+    background-color: #00e600; 
+    border-radius: 9px 9px 9px 9px;
+    border-collapse: separate;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+
+th {
+border-radius: 9px 9px 0px 0px;
+}
+
+tr:last-child td:first-child { 
+    border-bottom-left-radius: 9px; 
+}
+tr:last-child td:last-child { 
+    border-bottom-right-radius: 9px; 
+}
+
+video {
+border: 1px solid black;
+}
+
+.vid1 {
+padding-top: 30px;
+width: 100%;
+}
+
+.vid2 {
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+
+.men {
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+.ima1 {
+text-align: center;
+margin-left: 24%;
+}
+
+.ima2 {
+text-align: center;
+margin-right: 24%;
+}
+
+.menu {
+  display: flex;
+  padding-top: 5px;
+}
+
+.menu div {
+  flex: 1;
+}
+
+.cols {
+  display: flex;
+  padding-top: 30px;
+}
+
+.cols div {
+  flex: 1;
+}
+
+img#imatgesmultimedia {
+    border:2px solid blue;
+    outline-color: #ffff66;  
+    outline-style:ridge;
+}
+
+.imatgesmultimedia {
+    border:2px solid blue;
+    outline-color: #ffff66;  
+    outline-style:ridge;
+}
